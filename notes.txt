@@ -1,0 +1,20 @@
+https://fonts.googleapis.com/css?family=kumbh
+
+Color palette:
+- 606C38
+- 283618
+- FEFAE0
+- DDA15E
+- BC6C25
+
+sources:
+https://www.toptal.com/front-end/dynamic-css-with-custom-properties
+https://www.w3.org/Style/Examples/007/center.en.html
+https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html
+https://css-tricks.com/working-with-shapes-in-web-design/
+https://www.w3schools.com/css/css3_object-fit.asp
+
+assets:
+https://www.postermywall.com/index.php/art/template/09d0fc3a5a6ec37cf44446e167bb482c/chocolate-expo-event-ad-template-design#.YihG0npByHs
+https://www.istockphoto.com/id/vektor/iklan-spanduk-cokelat-gm1059444574-283178975
+https://www.behance.net/gallery/83723387/Chocolate-Cafe-Web-Banner/modules/484997333

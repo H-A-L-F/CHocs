@@ -15,11 +15,11 @@ assets:
 https://www.chocolate.lindt.com/
 
 Requirements:
-1. Figma prototype exact same with the website
-2. Each page contain header, navigation, content, and footer
-3. Need 5 page
-4. Website must be responsive
-5. Should be fully accessible in a mobile phone
+1. Figma prototype exact same with the website                      []
+2. Each page contain header, navigation, content, and footer        [v]
+3. Need 5 page                                                      []
+4. Website must be responsive                                       [v]
+5. Should be fully accessible in a mobile phone                     []
 
 Pages:
 1. Home     :

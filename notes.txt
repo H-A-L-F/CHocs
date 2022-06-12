@@ -25,7 +25,7 @@ Pages:
 1. Home     :
     - Best Seller                                                   [v]
     - Recommendation                                                [v]
-    - Information about CHocs                                       []
+    - Information about CHocs                                       [v]
 
 2. Products :
     - List of chocolates                                            []

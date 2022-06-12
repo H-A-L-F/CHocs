@@ -5,11 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../style/navbar.css">
-    <link rel="stylesheet" href="../style/header.css">
+    <link rel="stylesheet" href="../style/header_products.css">
     <link rel="stylesheet" href="../style/footer.css">
-    <link rel="stylesheet" href="../style/bestseller.css">
-    <link rel="stylesheet" href="../style/recommendation.css">
-    <link rel="stylesheet" href="../style/information.css">
+    <link rel="stylesheet" href="../style/products.css">
     <title>Document</title>
 </head>
 <body>
@@ -42,7 +40,34 @@
         </div>
     </nav>
 
-    
+    <header class="hero">
+        <div class="hero__container">
+            <div class="hero__container__info">
+                <h1>CHocs Products</h1>
+                <p>Feast your eyes with our wide variety of chocolates. There is a chocolate for every taste.</p>
+            </div>
+        </div>
+    </header>
+
+    <div class="section">
+        <div class="section-header">
+            <p class="section-header__title">Chocolates</p>
+            <div class="section-header__line"></div>
+        </div>
+        <div class="section__content" id="section-content">
+            <div class="product" id="product">
+                <div class="card">
+                    <div class="card__content">
+                        <p class="card__title">Axelian Choc</p>
+                        <p class="card__desc">A great pick for those who prefer their chocolate bitter sweet.</p>
+                    </div>
+                    <button class="card__button">
+                        Purchase
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <footer class="footer">
         <div class="footer__content">
@@ -62,5 +87,6 @@
     </footer>
 
     <script src="../scripts/navbar.js"></script>
+    <script src="../scripts/products.js"></script>
 </body>
 </html>

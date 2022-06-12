@@ -107,6 +107,7 @@ body {
         opacity: 1;
         transition: all 0.4s ease;
         z-index: -1;
+        background-color: #000814;
     }
 
     .navbar__menu.active {

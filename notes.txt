@@ -13,13 +13,14 @@ https://www.ghirardelli.com/
 
 assets:
 https://www.chocolate.lindt.com/
+https://www.purdys.com/chocolate/
 
 Requirements:
 1. Figma prototype exact same with the website                      []
 2. Each page contain header, navigation, content, and footer        [v]
 3. Need 5 page                                                      []
 4. Website must be responsive                                       [v]
-5. Should be fully accessible in a mobile phone                     []
+5. Should be fully accessible in a mobile phone                     [v]
 
 Pages:
 1. Home     :
@@ -28,8 +29,8 @@ Pages:
     - Information about CHocs                                       [v]
 
 2. Products :
-    - List of chocolates                                            []
-    - Provide name, desc, and img                                   []
+    - List of chocolates                                            [v]
+    - Provide name, desc, and img                                   [v]
 
 3. Purchase :
     - Purchase form                                                 []

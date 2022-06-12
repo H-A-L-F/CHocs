@@ -1,69 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="../style/style.css" />
-    <title>CHocs</title>
-  </head>
-  <body>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style/navbar.css">
+    <title>Document</title>
+</head>
+<body>
+
     <nav class="navbar">
-      <div class="navbar_container">
-        <a href="/" id="navbar_logo">CHocs</a>
-        <!-- <div class="navbar_toggle" id="mobile_menu">
-                <span class="bar">Home</span>
-                <span class="bar">Products</span>
-                <span class="bar">Purchase</span>
-                <span class="bar">Location</span>
-                <span class="bar">About Us</span>
-            </div> -->
-        <ul class="navbar_menu">
-          <li class="navbar_item">
-            <a href=" " class="navbar_link">Home</a>
-          </li>
-          <li class="navbar_item">
-            <a href="../views/products.html" class="navbar_link">Products</a>
-          </li>
-          <li class="navbar_item">
-            <a href="../views/purchase.html" class="navbar_link">Purchase</a>
-          </li>
-          <li class="navbar_item">
-            <a href="../views/location.html" class="navbar_link">Location</a>
-          </li>
-          <li class="navbar_item">
-            <a href="../views/about_us.html" class="navbar_link">About Us</a>
-          </li>
-        </ul>
-      </div>
+        <div class="navbar__container">
+            <a href="#" class="navbar__logo" id="navbar__logo">CHOCS</a>
+            <ul class="navbar__menu">
+                <li class="navbar__item">
+                    <a href="" class="navbar__link" id="navbar-home">Home</a>
+                </li>
+                <li class="navbar__item">
+                    <a href="" class="navbar__link" id="navbar-products">Products</a>
+                </li>
+                <li class="navbar__item">
+                    <a href="" class="navbar__link" id="navbar-about">About</a>
+                </li>
+                <li class="navbar__item">
+                    <a href="" class="navbar__link" id="navbar-location">Location</a>
+                </li>
+                <li class="navbar__btn">
+                    <a href="" class="navbar__purchase" id="navbar-purchase">Purchase</a>
+                </li>
+            </ul>
+            <div class="navbar__hamburger" id="mobile-menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
     </nav>
 
-    <div class="carousel_container">
-      <div class="carousel fade">
-        <div class="carousel_card">
-          <img src="../assets/banner1.jpg" style="width: 100%" />
-        </div>
-
-        <div class="carousel_card">
-          <img src="../assets/banner2.jpg" style="width: 100%" />
-        </div>
-
-        <div class="carousel_card">
-          <img src="../assets/banner3.jpg" style="width: 100%" />
-        </div>
-
-        <a class="prev" onclick="switchCar(-1)"> &#10094; </a>
-        <a class="next" onclick="switchCar(1)"> &#10095; </a>
-      </div>
-
-      <br />
-
-      <div style="text-align: center">
-        <span class="dots" onclick="gotoCar(1)"></span>
-        <span class="dots" onclick="gotoCar(2)"></span>
-        <span class="dots" onclick="gotoCar(3)"></span>
-      </div>
-    </div>
-  </body>
-  <script src="../scripts/script.js"></script>
+    <script src="../scripts/navbar.js"></script>
+</body>
 </html>

@@ -1,12 +1,3 @@
-https://fonts.googleapis.com/css?family=kumbh
-
-Color palette:
-- 606C38
-- 283618
-- FEFAE0
-- DDA15E
-- BC6C25
-
 sources:
 https://www.toptal.com/front-end/dynamic-css-with-custom-properties
 https://www.w3.org/Style/Examples/007/center.en.html
@@ -21,9 +12,7 @@ https://www.chocolate.org/
 https://www.ghirardelli.com/
 
 assets:
-https://www.postermywall.com/index.php/art/template/09d0fc3a5a6ec37cf44446e167bb482c/chocolate-expo-event-ad-template-design#.YihG0npByHs
-https://www.istockphoto.com/id/vektor/iklan-spanduk-cokelat-gm1059444574-283178975
-https://www.behance.net/gallery/83723387/Chocolate-Cafe-Web-Banner/modules/484997333
+https://www.chocolate.lindt.com/
 
 Requirements:
 1. Figma prototype exact same with the website
@@ -34,25 +23,25 @@ Requirements:
 
 Pages:
 1. Home     :
-    - Best Seller
-    - Recommendation
-    - Information about CHocs
+    - Best Seller                                                   []
+    - Recommendation                                                []
+    - Information about CHocs                                       []
 
 2. Products :
-    - List of chocolates
-    - Provide name, desc, and img
+    - List of chocolates                                            []
+    - Provide name, desc, and img                                   []
 
 3. Purchase :
-    - Purchase form
-    - Name, phone number, quantity, product choice, and address
-    - 5 kinds of form components
-    - 5 kinds of validation
-    - validation must use js and no regex
+    - Purchase form                                                 []
+    - Name, phone number, quantity, product choice, and address     []
+    - 5 kinds of form components                                    []
+    - 5 kinds of validation                                         []
+    - validation must use js and no regex                           []
 
 4. About Us :
-    - History
-    - Premium ingredients
+    - History                                                       []
+    - Premium ingredients                                           []
 
 5. Location :
-    - show all location of CHocs
-    - provide name, desc, and img of store
+    - show all location of CHocs                                    []
+    - provide name, desc, and img of store                          []

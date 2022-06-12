@@ -23,8 +23,8 @@ Requirements:
 
 Pages:
 1. Home     :
-    - Best Seller                                                   []
-    - Recommendation                                                []
+    - Best Seller                                                   [v]
+    - Recommendation                                                [v]
     - Information about CHocs                                       []
 
 2. Products :
